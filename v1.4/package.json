@@ -1,0 +1,23 @@
+{
+  "name": "vue-chemdraw",
+  "version": "1.4.6",
+  "description": "0chem.com 分子绘图",
+  "main": "init.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "Chem",
+    "Molecule",
+    "MoleculeDraw",
+    "ChemDraw",
+    "分子绘图"
+  ],
+  "author": "0chem.com",
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/linghuaxue"
+  },
+  "homepage": "https://0chem.com",
+  "license": "ISC"
+}
